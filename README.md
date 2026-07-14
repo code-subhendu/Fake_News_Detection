@@ -313,36 +313,34 @@ Output
 
 ## Home Page
 
-```
-(Add Screenshot Here)
-```
+![Home Page](ScreenShots/Home1.png)
+![Home Page 2](ScreenShots/Home2.png)
 
 ---
 
-## Prediction Result
+### 📝 Text Detection
 
-```
-(Add Screenshot Here)
-```
+![Text Detection](ScreenShots/Text.png)
 
 ---
 
-## URL Detection
+### 🔗 URL Detection
 
-```
-(Add Screenshot Here)
-```
+![URL Detection](ScreenShots/Link.png)
 
 ---
 
-## Image Detection
+### 🖼️ Image Detection
 
-```
-(Add Screenshot Here)
-```
+![Image Detection](ScreenShots/Image.png)
 
 ---
 
+### 📊 Prediction Result
+
+![Prediction Result](ScreenShots/Result.png)
+
+---
 # 💡 Future Improvements
 
 - Voice News Detection
