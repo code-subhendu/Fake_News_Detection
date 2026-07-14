@@ -362,14 +362,13 @@ This project was developed as the **Final Year B.Tech Project** in the Departmen
 
 ## 👥 Project Team
 
-| Name | Role |
-|------|------|
-| **Rudranil Guchhait** | Team Member |
-| **Subhendu Maiti** | Team Member |
-| **Apurba Mondal** | Team Member |
-| **Sujan Samanta** | Team Member |
-| **Hafijul Mondal** | Team Member |
+This project was collaboratively developed by:
 
+- **Rudranil Guchhait**
+- **Subhendu Maiti**
+- **Apurba Mondal**
+- **Sujan Samanta**
+- **Hafijul Mondal**
 ---
 
 ## 🎓 Project Guide
